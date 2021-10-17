@@ -1,4 +1,4 @@
-      *Efetua soma ou multiplicação utilizando parágrafos
+      *Efetua soma ou multiplicação utilizando parágrafos e IF ELSE
 
        IDENTIFICATION DIVISION. 
        PROGRAM-ID. Paragraphs.
