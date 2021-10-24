@@ -25,3 +25,5 @@
          ACCEPT WRK-CPF FROM CONSOLE.
          MOVE WRK-CPF TO WRK-CPF-ED.
          DISPLAY WRK-CPF-ED.
+
+       STOP RUN.
