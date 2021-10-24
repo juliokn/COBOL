@@ -37,3 +37,4 @@
          MOVE WRK-CPF-4 TO WRK-CPF-ED-4.
 
          DISPLAY WRK-CPF-ED.
+       STOP RUN.
